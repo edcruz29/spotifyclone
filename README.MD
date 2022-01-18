@@ -3,6 +3,8 @@
 ## Sobre
 
 Clone da página inicial do Spotify
+Desktop concluído.
+Falta ajustar a responsividade.
 
 ## Objetivo
 
